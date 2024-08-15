@@ -1,0 +1,257 @@
+; s0arec's IP Block List
+; Homepage: https://blocklists.s0arec.ro/ipbl.txt
+; E-mail: blocklists@s0arec.ro
+; Description: For feedback and false positive enterys, send me an e-mail.
+; Donations: https://www.buymeacoffee.com/s0arec
+; Donations (BTC): 359hwpK3pPeTM7XomnNjFRSrpYJ6ixQnDb
+; Version: 20211210
+
+197.231.221.211 ; WannaCry - 2017-05-14
+91.121.65.179 ; WannaCry - 2017-05-14
+128.31.0.39 ; WannaCry - 2017-05-14
+149.202.160.69 ; WannaCry - 2017-05-14
+46.101.166.19 ; WannaCry - 2017-05-14
+188.166.23.127 ; WannaCry - 2017-05-14
+193.23.244.244 ; WannaCry - 2017-05-14
+2.3.69.209 ; WannaCry - 2017-05-14
+146.0.32.144 ; WannaCry - 2017-05-14
+50.7.161.218 ; WannaCry - 2017-05-14
+217.79.179.77 ; WannaCry - 2017-05-14
+128.31.0.39 ; WannaCry - 2017-05-14
+213.61.66.116 ; WannaCry - 2017-05-14
+212.47.232.237 ; WannaCry - 2017-05-14
+81.30.158.223 ; WannaCry - 2017-05-14
+79.172.193.32 ; WannaCry - 2017-05-14
+89.45.235.21 ; WannaCry - 2017-05-14
+38.229.72.16 ; WannaCry - 2017-05-14
+188.138.33.220 ; WannaCry - 2017-05-14
+185.165.29.78 ; Petya - 2017-06-28
+84.200.16.242 ; Petya - 2017-06-28
+111.90.139.247 ; Petya - 2017-06-28
+95.141.115.108 ; Petya - 2017-06-28
+118.184.48.95 ; twitter.com/0xAmit/status/1035549398300848129?s=09
+104.148.42.153 ; twitter.com/0xAmit/status/1035549398300848129?s=09
+107.179.67.243 ; twitter.com/0xAmit/status/1035549398300848129?s=09
+172.247.116.8 ; twitter.com/0xAmit/status/1035549398300848129?s=09
+172.247.116.87 ; twitter.com/0xAmit/status/1035549398300848129?s=09
+45.199.154.141 ; twitter.com/0xAmit/status/1035549398300848129?s=09
+89.42.208.248 ; Cobalt 2018-10-31
+216.244.84.81 ; Cobalt 2018-10-31
+176.57.71.188 ; Cobalt 2018-10-31
+176.57.71.190 ; Cobalt 2018-10-31
+176.57.71.191 ; Cobalt 2018-10-31
+194.99.21.125 ; Cobalt 2018-10-31
+34.194.20.115 ; White Rabbit - 2019-01-29 https://www.bleepingcomputer.com/news/security/spam-campaign-follows-the-white-rabbit-to-nsfw-phishing-scams/#.XE9WY89zJp0.facebook
+52.211.95.198 ; White Rabbit - 2019-01-29 https://www.bleepingcomputer.com/news/security/spam-campaign-follows-the-white-rabbit-to-nsfw-phishing-scams/#.XE9WY89zJp0.facebook
+34.210.90.78 ; White Rabbit - 2019-01-29 https://www.bleepingcomputer.com/news/security/spam-campaign-follows-the-white-rabbit-to-nsfw-phishing-scams/#.XE9WY89zJp0.facebook
+52.32.148.184 ; White Rabbit - 2019-01-29 https://www.bleepingcomputer.com/news/security/spam-campaign-follows-the-white-rabbit-to-nsfw-phishing-scams/#.XE9WY89zJp0.facebook
+52.27.20.17 ; White Rabbit - 2019-01-29 https://www.bleepingcomputer.com/news/security/spam-campaign-follows-the-white-rabbit-to-nsfw-phishing-scams/#.XE9WY89zJp0.facebook
+52.5.47.11 ; White Rabbit - 2019-01-29 https://www.bleepingcomputer.com/news/security/spam-campaign-follows-the-white-rabbit-to-nsfw-phishing-scams/#.XE9WY89zJp0.facebook
+52.30.14.56 ; White Rabbit - 2019-01-29 https://www.bleepingcomputer.com/news/security/spam-campaign-follows-the-white-rabbit-to-nsfw-phishing-scams/#.XE9WY89zJp0.facebook
+137.74.131.18 ; Cobalt - 2019-01-30
+176.31.193.12 ; Cobalt - 2019-01-30
+38.132.124.185 ; Cobalt - 2019-01-30
+208.91.197.91 ; Cobalt - 2019-01-30
+38.132.124.185 ; Cobalt - 2019-01-30
+176.31.193.12 ; Cobalt - 2019-01-30
+185.217.94.225 ; Cobalt - 2019-01-30
+137.74.131.18 ; Cobalt - 2019-01-30
+176.31.193.12 ; Cobalt - 2019-01-30
+185.217.94.225 ; Cobalt - 2019-01-30
+137.74.131.18 ; Cobalt - 2019-01-30
+196.31.193.12 ; Cobalt - 2019-01-30
+208.91.197.91 ; Cobalt - 2019-01-30
+185.217.94.225 ; Cobalt - 2019-01-30
+208.91.197.91 ; Cobalt - 2019-01-30
+137.74.131.18 ; Cobalt - 2019-01-30
+208.91.197.91 ; Cobalt - 2019-01-30
+149.255.35.21 ; Cobalt - 2019-01-30
+208.91.197.91 ; Cobalt - 2019-01-30
+198.251.83.27 ; Cobalt - 2019-01-30
+193.182.144.135 ; Cobalt - 2019-01-30
+173.73.83.146 ; 2019-01-30 https://app.any.run/tasks/c5adf5b9-41f1-4476-928c-a04bb4ef344d
+31.148.220.53 ; 2019-03-15 WinRAR CVE-2018-20250
+138.204.171.108 ; 2019-03-15 WinRAR CVE-2018-20250
+101.99.90.39 ; Cobalt - 2019-04-04
+209.141.59.206 ; Cobalt - 2019-04-04
+87.120.37.72 ; Cobalt - 2019-04-04
+194.36.189.180 ; Cobalt - 2019-05-10
+194.36.189.177 ; Cobalt - 2019-05-10
+194.36.189.178 ; Cobalt - 2019-05-10
+111.90.146.214 ; Cobalt - 2019-05-10
+109.234.34.39 ; Cobalt - 2019-05-10
+46.101.152.39 ; Cobalt - 2019-05-10
+5.39.113.140 ; Cobalt - 2019-05-10
+172.106.170.96 ; Cobalt - 2019-05-10
+95.216.147.100 ; 2019-09-19 https://www.joesandbox.com/analysis/172783/0/html
+198.54.126.123 ; 2019-09-19 prityfashion.website
+185.165.153.219 ; 2019-09-23 https://www.hybrid-analysis.com/sample/1a25022abe9f187839d4d85ad247dee6dfd189d332e2b6c8867d0510bb1e0475/5d8862bc02883831156fbc81
+86.105.228.7 ; 2019-09-23 https://www.hybrid-analysis.com/sample/7bbfb00cbec10c2f87d882a53f591b62ba2f365106e1a4de3af012af0e3bff35/5d889aea028838e89b6fbccd
+190.115.27.130 ; afar15.com
+65.131.79.162 ; Qbot
+81.245.66.237 ; Qbot
+71.77.252.14 ; Qbot
+75.183.171.155 ; Qbot
+75.81.25.223 ; Qbot
+173.197.155.139 ; Qbot
+70.95.94.91 ; Qbot
+86.126.126.75 ; Qbot
+72.36.59.46 ; Qbot
+189.157.37.193 ; Qbot
+137.99.224.198 ; Qbot
+24.37.178.158 ; Qbot
+72.29.181.77 ; Qbot
+71.197.126.250 ; Qbot
+206.169.163.147 ; Qbot
+70.174.3.241 ; Qbot
+24.184.5.251 ; Qbot
+79.114.194.106 ; Qbot
+68.174.15.223 ; Qbot
+80.14.209.42 ; Qbot
+198.54.114.23 ; Cerberus
+8.208.82.42 ; Cerberus
+45.146.165.110 ; 2021-07-13 PHP Attacker
+202.191.112.60 ; https://app.any.run/tasks/19900d94-8e2c-44a4-84df-c4bba51d6b43
+147.182.160.96 ; https://app.any.run/tasks/5a74e973-4f23-46f9-b6a9-dfbe312a4363
+95.169.0.244 ; Cobalt Strike
+93.117.137.156 ; Cobalt Strike
+92.38.160.120 ; Cobalt Strike
+91.241.19.18 ; Cobalt Strike
+82.156.28.143 ; Cobalt Strike
+82.156.218.132 ; Cobalt Strike
+82.156.2.25 ; Cobalt Strike
+81.70.3.206 ; Cobalt Strike
+81.70.241.51 ; Cobalt Strike
+80.240.17.213 ; Cobalt Strike
+8.129.24.62 ; Cobalt Strike
+78.155.199.142 ; Cobalt Strike
+74.119.192.230 ; Cobalt Strike
+58.218.215.139 ; Cobalt Strike
+49.235.68.215 ; Cobalt Strike
+49.235.206.130 ; Cobalt Strike
+49.234.208.78 ; Cobalt Strike
+47.99.163.191 ; Cobalt Strike
+47.98.48.218 ; Cobalt Strike
+47.98.217.105 ; Cobalt Strike
+47.97.127.116 ; Cobalt Strike
+47.95.199.162 ; Cobalt Strike
+47.94.153.149 ; Cobalt Strike
+47.93.220.152 ; Cobalt Strike
+47.92.165.237 ; Cobalt Strike
+47.75.96.198 ; Cobalt Strike
+47.75.138.18 ; Cobalt Strike
+47.75.122.251 ; Cobalt Strike
+47.74.144.167 ; Cobalt Strike
+47.243.96.36 ; Cobalt Strike
+47.242.34.157 ; Cobalt Strike
+47.242.188.246 ; Cobalt Strike
+47.242.106.40 ; Cobalt Strike
+47.119.132.237 ; Cobalt Strike
+47.116.135.12 ; Cobalt Strike
+47.115.167.200 ; Cobalt Strike
+47.113.192.46 ; Cobalt Strike
+47.111.14.176 ; Cobalt Strike
+47.111.129.24 ; Cobalt Strike
+47.111.120.215 ; Cobalt Strike
+47.108.184.159 ; Cobalt Strike
+47.107.229.102 ; Cobalt Strike
+47.106.88.225 ; Cobalt Strike
+47.105.223.18 ; Cobalt Strike
+47.105.189.230 ; Cobalt Strike
+47.105.143.164 ; Cobalt Strike
+47.104.222.101 ; Cobalt Strike
+47.103.158.65 ; Cobalt Strike
+47.103.157.82 ; Cobalt Strike
+47.103.142.250 ; Cobalt Strike
+47.103.106.178 ; Cobalt Strike
+47.102.223.65 ; Cobalt Strike
+47.102.196.66 ; Cobalt Strike
+47.102.156.247 ; Cobalt Strike
+47.102.130.106 ; Cobalt Strike
+47.101.33.96 ; Cobalt Strike
+47.101.223.45 ; Cobalt Strike
+47.101.184.239 ; Cobalt Strike
+47.101.132.196 ; Cobalt Strike
+47.100.87.17 ; Cobalt Strike
+47.100.78.89 ; Cobalt Strike
+47.100.244.87 ; Cobalt Strike
+47.100.10.225 ; Cobalt Strike
+46.30.188.66 ; Cobalt Strike
+46.166.162.34 ; Cobalt Strike
+46.166.161.33 ; Cobalt Strike
+46.161.40.85 ; Cobalt Strike
+46.161.27.113 ; Cobalt Strike
+46.101.8.194 ; Cobalt Strike
+46.101.55.152 ; Cobalt Strike
+46.101.213.92 ; Cobalt Strike
+45.93.201.234 ; Cobalt Strike
+45.86.74.161 ; Cobalt Strike
+45.84.225.78 ; Cobalt Strike
+45.77.63.157 ; Cobalt Strike
+45.77.33.35 ; Cobalt Strike
+45.77.233.82 ; Cobalt Strike
+45.67.230.95 ; Cobalt Strike
+45.66.158.14 ; Cobalt Strike
+45.62.105.231 ; Cobalt Strike
+45.40.57.126 ; Cobalt Strike
+45.32.1.64 ; Cobalt Strike
+45.155.204.125 ; Cobalt Strike
+45.147.179.107 ; Cobalt Strike
+45.142.166.46 ; Cobalt Strike
+45.138.70.66 ; Cobalt Strike
+45.135.116.233 ; Cobalt Strike
+45.128.209.89 ; Cobalt Strike
+45.125.57.232 ; Cobalt Strike
+44.197.178.139 ; Cobalt Strike
+43.231.0.186 ; Cobalt Strike
+43.226.158.228 ; Cobalt Strike
+43.132.199.195 ; Cobalt Strike
+42.193.97.79 ; Cobalt Strike
+42.192.69.109 ; Cobalt Strike
+42.192.206.174 ; Cobalt Strike
+39.99.173.55 ; Cobalt Strike
+39.103.196.134 ; Cobalt Strike
+39.103.135.24 ; Cobalt Strike
+39.101.174.115 ; Cobalt Strike
+38.101.41.70 ; Cobalt Strike
+35.192.86.106 ; Cobalt Strike
+35.171.172.40 ; Cobalt Strike
+34.84.31.201 ; Cobalt Strike
+34.150.16.164 ; Cobalt Strike
+34.146.62.161 ; Cobalt Strike
+3.236.53.16 ; Cobalt Strike
+23.225.44.67 ; Cobalt Strike
+23.106.123.219 ; Cobalt Strike
+213.170.133.133 ; Cobalt Strike
+212.129.243.101 ; Cobalt Strike
+211.149.135.39 ; Cobalt Strike
+209.126.119.186 ; Cobalt Strike
+207.246.108.150 ; Cobalt Strike
+20.56.88.199 ; Cobalt Strike
+20.184.7.215 ; Cobalt Strike
+2.56.59.117 ; Cobalt Strike
+198.46.188.150 ; Cobalt Strike
+198.23.239.151 ; Cobalt Strike
+198.211.97.222 ; Cobalt Strike
+198.13.57.252 ; Cobalt Strike
+195.58.48.249 ; Cobalt Strike
+194.156.98.72 ; Cobalt Strike
+193.42.38.90 ; Cobalt Strike
+193.37.212.83 ; Cobalt Strike
+193.26.22.71 ; Cobalt Strike
+193.160.32.125 ; Cobalt Strike
+188.166.39.21 ; Cobalt Strike
+188.165.185.104 ; Cobalt Strike
+185.251.249.206 ; Cobalt Strike
+185.198.57.155 ; Cobalt Strike
+182.61.136.7 ; Cobalt Strike
+155.138.205.35 ; Mirrorblast malware
+141.164.41.231 ; Mirrorblast malware
+159.223.21.94 ; BazarLoader campaign
+164.90.213.219 ; BazarLoader campaign
+164.90.213.227 ; BazarLoader campaign
+164.90.221.57 ; BazarLoader campaign
+38.108.119.121 ; KOMAR
+194.104.136.169 ; BazarLoader campaign
+185.232.170.178 ; BazarLoader campaign
+87.251.85.100 ; Emotet Malware Campaign - 12/10/2021
